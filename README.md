@@ -5,3 +5,9 @@ El objetivo es proporcionar un catálogo funcional que permita a los usuarios ad
 
 🚀 Estado del Proyecto
 ✅ Finalizado – Funcionalidades implementadas:
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
